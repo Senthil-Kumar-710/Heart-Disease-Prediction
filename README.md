@@ -12,7 +12,7 @@
 
 This study delves into the realm of healthcare diagnostics, focusing on disease prediction through symptom analysis using two powerful machine learning algorithms: K-Nearest Neighbors (KNN) and Decision Tree. Traditional methods often struggle with the complexities of symptom data, making machine learning an attractive solution. Leveraging the simplicity of KNN and the ability of Decision Trees to model intricate decision processes, this research aims to develop robust predictive models.
 
-# FEATURES USSED
+# FEATURES USED
 
 The features used in a disease prediction model using KNN (K-Nearest Neighbors) and Decision Tree algorithms for symptom analysis typically include various symptoms or clinical indicators that are relevant to the specific disease being predicted. The choice of features depends on the nature of the disease and the available data. Here's a general outline of how features might be selected:
 
